@@ -1,0 +1,135 @@
+{
+  "documents": [
+    {
+      "id": "id__592",
+      "sentiment": "negative",
+      "confidenceScores": {
+        "positive": 0.03,
+        "neutral": 0.41,
+        "negative": 0.56
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0,
+            "neutral": 0.97,
+            "negative": 0.02
+          },
+          "offset": 0,
+          "length": 93,
+          "text": "In English the core building blocks of any intellectual or research argument are paragraphs. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 93,
+          "length": 118,
+          "text": "Each paragraphs should be a single unit of thought, a discrete package of ideas composed of closely linked sentences. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0
+          },
+          "offset": 211,
+          "length": 81,
+          "text": "The most generally applicable sequence to follow is — Topic, Body, Tokens, Wrap.\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.96,
+            "negative": 0.01
+          },
+          "offset": 292,
+          "length": 149,
+          "text": "The opening ‘topic’ sentence alerts readers to a change of subject and focus, and cues readers (in ‘signpost’ mode) about what the paragraph covers. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.72,
+            "negative": 0.27
+          },
+          "offset": 441,
+          "length": 124,
+          "text": "It should never link backwards to material that came before (linkages are instead always made forward in ‘wrap’ sentences). ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.41,
+            "negative": 0.56
+          },
+          "offset": 565,
+          "length": 145,
+          "text": "So be wary of starting paragraphs with linking words (such as ‘However’, ‘Never the less’, ‘Furthermore’), lest they lead you into looking back. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.97,
+            "negative": 0.01
+          },
+          "offset": 710,
+          "length": 72,
+          "text": "Instead topic sentences should clearly signal a new focus of attention. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.45,
+            "neutral": 0.51,
+            "negative": 0.04
+          },
+          "offset": 782,
+          "length": 122,
+          "text": "Yet they also need to be carefully written, to give readers the impression of a fluent, ‘natural’ progression of thought. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.83,
+            "negative": 0.16
+          },
+          "offset": 904,
+          "length": 162,
+          "text": "Remember too that a signpost is just that — it is a very short cuing or naming prompt, not a mini-tour guide or a preview of the whole paragraph argument to come.",
+          "targets": [],
+          "assessments": []
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}
